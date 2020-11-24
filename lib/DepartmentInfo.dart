@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:postgres/postgres.dart';
 import 'Home.dart';
 
+
+//test fake rep creation
 class DepartmentInfo extends StatelessWidget {
   List<Department> departments = [];
   List<Teacher> teachers = [];
